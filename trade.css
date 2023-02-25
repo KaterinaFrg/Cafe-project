@@ -1,0 +1,90 @@
+@media screen {min-width: 768px;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color:coral;
+}
+.navbar li{
+    list-style: none;
+     display:inline;
+     margin: 0px 20px 40px 10px;
+     float:inline-start;
+     
+      }
+.navbar{
+margin-top: 0px;
+float: right;
+margin: 20px;
+padding: 20px;
+
+}          
+.header img{
+margin: 20px;   
+}
+.showcase{
+background-image: url(showcase.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+.showcase{
+width: auto px;
+height: 380px;
+}
+.showcase h3{
+color:coral;
+text-decoration: double;
+
+text-align: center;
+padding: 20px;
+}
+.showcase h1{
+color: coral;
+outline: 5px 5px 5px 5px ;
+text-align: center;
+}
+
+#menubutton{
+list-style: none;
+text-decoration: double;
+font-weight: bold;
+ margin: 150px 20px 40px 10px;
+ text-align:center;
+}
+.showcase a{
+    text-decoration: none;
+    color:white;
+    text-align: center;
+}
+.showcase li{
+display: inline;
+margin: 100px;
+}
+.button1{
+font-weight:bold;
+outline: 2px solid white;
+padding: 20px; 
+}
+.button2{
+font-weight:bolder;
+background-color: tomato;
+padding: 20px; 
+border-radius: 8px;
+}
+.container{
+color: goldenrod;
+}
+
+#smalltitle{
+margin-left: 100px;
+}
+#prg3{
+color: goldenrod;
+position: relative; left: 700px; bottom: 230px;
+}
+#prg1{
+    position: relative; left: 20px;
+}
+#prg2{
+    position: relative; left: 20px;
+}
